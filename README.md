@@ -51,10 +51,3 @@ Developed an Excel-based employee management system using VBA macros to automate
 Tools used: Microsoft Excel, VBA  
 [View Project →](https://github.com/Atchayamurugesan12/employee-management-system-vba)
 
----
-
-## GitHub Stats
-
-![Atchaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atchayamurugesan12&show_icons=true&hide_border=true&theme=default)
-
----
