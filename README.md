@@ -1,5 +1,5 @@
 
-# Hi, I'm Atchaya M 👋
+# Hi, I'm Atchaya M 
 
 I'm a Data Analyst with a passion for exploring data and uncovering insights that support better decisions.
 
@@ -7,10 +7,10 @@ I'm a Data Analyst with a passion for exploring data and uncovering insights tha
 
 ## About Me
 
-- 🎯 Focused on data analysis, visualization, and reporting
-- 🌱 Continuously improving my skills in SQL, Python, and business intelligence tools
-- 💼 Open to Data Analyst roles where I can contribute and grow
-- 📬 Let's connect: *https://www.linkedin.com/in/atchaya-m-53b045237/*
+- Focused on data analysis, visualization, and reporting
+- Continuously improving my skills in SQL, Python, and business intelligence tools
+- Open to Data Analyst roles where I can contribute and grow
+- Let's connect: *https://www.linkedin.com/in/atchaya-m-53b045237/*
 
 ---
 
