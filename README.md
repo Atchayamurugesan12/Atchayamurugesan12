@@ -34,7 +34,7 @@ Tools used: Python, Pandas, NumPy, Matplotlib
 
 **🛒 Blinkit Sales Analysis — Power BI Dashboard**  
 Designed an interactive Power BI dashboard to analyze Blinkit's sales data, highlighting top-performing categories, outlet performance, and customer trends.  
-Tools used: Power BI  
+Tools used: Power BI, Power Query, DAX
 [View Project →](https://github.com/Atchayamurugesan12/blinkit-sales-analysis-powerbi)
 
 ---
